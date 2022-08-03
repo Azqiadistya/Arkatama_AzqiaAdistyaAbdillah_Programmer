@@ -1,4 +1,4 @@
-# Tes Skill Programming Arkatama
+# Tes Skill Programming
 
 ## Laravel dengan framework css Bootstrap
 Dalam project ini menerapkan:
