@@ -1,4 +1,7 @@
 # Tes Skill Programming Arkatama
+Nama : Azqia Adistya Abdillah
+Wa : 082322302193
+Email : azqiabdillah@gmail.com/azqiadistya.aa@gmail.com
 
 ## Laravel dengan framework css Bootstrap
 Dalam project ini menerapkan:
